@@ -1,0 +1,7 @@
+#Folders
+node_modules/
+mochawesome-report/
+.vscode/
+
+#specific configuration
+package-lock.json
